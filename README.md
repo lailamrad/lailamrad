@@ -1,7 +1,16 @@
-## Laila M. Rad, PhD GitHub
+# Laila M. Rad, PhD - Bioinformatics Portfolio
+The following repositories are examples of my bioinformatics skills: 
 
-## Summary
-Biomedical Engineering PhD with 8 years of academic research experience with 3 first-author publications and 6 co-author publications. Expertise in designing and executing computational and wet lab experiments for treatments and diagnostics of food allergies and autoimmune diseases. Passionate about mentoring and training the next-generation of scientists and engineers.
+## scRNAseq Analysis Projects
+- [Intestines in Food Allergy](https://github.com/lailamrad/OVA-Allergy-Intestine-scRNAseq)
+- [Biomaterial Immunological Niches for MS](https://github.com/lailamrad/Chronic-Progressive-EAE-Scaffolds-scRNAseq)
+
+## Bulk RNAseq Analysis Projects
+- [B Cells in Food Allergy](https://github.com/lailamrad/OVA-Allergy-Bcells-Bulk-RNAseq)
+
+## Statistics
+- [T Cell Phenotyping]()
+
 
 <!--
 **lailamrad/lailamrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
