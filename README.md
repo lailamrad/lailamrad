@@ -8,7 +8,7 @@ The following repositories are examples of my bioinformatics skills:
 ## Bulk RNAseq Analysis Projects
 - [B Cells in Food Allergy](https://github.com/lailamrad/OVA-Allergy-Bcells-Bulk-RNAseq)
 
-## Statistics
+## Statistics in R
 - [T Cell Phenotyping](https://github.com/lailamrad/Tcell-FlowCytometry-Analysis)
 
 
