@@ -1,4 +1,7 @@
-## Hi there 👋
+## Laila M. Rad, PhD GitHub
+
+## Summary
+Biomedical Engineering PhD with 8 years of academic research experience with 3 first-author publications and 6 co-author publications. Expertise in designing and executing computational and wet lab experiments for treatments and diagnostics of food allergies and autoimmune diseases. Passionate about mentoring and training the next-generation of scientists and engineers.
 
 <!--
 **lailamrad/lailamrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
